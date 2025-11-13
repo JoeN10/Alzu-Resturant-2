@@ -10,4 +10,6 @@ from previous code what has been changed
 - theres more context then before implimented
 - the code didnt want to function properly without babel.config.js so i implimented it in and it runs perfecly fine with it
 - theres chsnges that i did to the index.ts
-- 
+- BELOW IS THE LINK TO THE YOUTUBE VIDEO I HAVE CREATED FOR THE APP
+-  https://youtu.be/S6JGEe6_DXw
+-  
