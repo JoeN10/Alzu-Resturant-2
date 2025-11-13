@@ -1,0 +1,13 @@
+from previous code what has been changed
+- There are new screens added which help the chef add to the menu and remove from the menu.
+- there are different food choices and beverages implimented for the starter- main- dessert & beverage section.
+- alzu resturant offers more than what it used to offer before and better
+- we insured to make our customers feel welcomed and enjoy the meals we provide
+- new changes are in the types section
+- theres data implimented regarding the app
+- there are new components added to the code
+- there are constants added to the code as well
+- theres more context then before implimented
+- the code didnt want to function properly without babel.config.js so i implimented it in and it runs perfecly fine with it
+- theres chsnges that i did to the index.ts
+- 
